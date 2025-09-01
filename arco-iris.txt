@@ -1,2 +1,5 @@
 vermelho
 laranja
+amarelo
+verde
+
